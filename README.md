@@ -15,12 +15,12 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/YuKitsune/YuKitsune/master/assets/Yuki.gif" />
 
-- Working at [Octopus Deploy](https://octopus.com) 🐙
-- Currently working on [Scratchie](https://github.com/YuKitsune/Scratchie) 📝 and [Chameleon](https://github.com/YuKitsune/Chameleon) 🦎 in my spare time
+- Software Engineer at [Octopus Deploy](https://octopus.com) 🐙
+- Currently working on [Chameleon](https://github.com/YuKitsune/Chameleon) 🦎 in my spare time
 - Online privacy advocate 🔐
 - Looking to collaborate on some open-source projects 🧑‍💻
 - Ask me about anything, I am happy to help where I can!
-- Fun-Fact: I'm completely self-taught
+- Fun-Fact: I'm completely self-taught!
 
 **Languages and Tools:** 
 
