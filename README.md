@@ -17,7 +17,7 @@
 
 - Software Engineer at [Octopus Deploy](https://octopus.com) 🐙
 - Currently working on [Chameleon](https://github.com/YuKitsune/Chameleon) 🦎 in my spare time
-- Online privacy advocate 🔐
+- Self-proclaimed cypherpunk 🔐
 - Looking to collaborate on some open-source projects 🧑‍💻
 - Ask me about anything, I am happy to help where I can!
 - Fun-Fact: I'm completely self-taught!
