@@ -24,18 +24,16 @@
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
-TODO: I wonder if we can change the style depending on the GitHub theme (light/dark)
--->
 <p>
+
+  <!-- Your github readme stats
+  You can use this api: https://github.com/anuraghazra/github-readme-stats
+  TODO: I wonder if we can change the style depending on the GitHub theme (light/dark)
+  -->
   <a href="https://github.com/YuKitsune/">
     <img width="55%" align="right" alt="YuKitsune's github stats" src="https://github-readme-stats.vercel.app/api?username=YuKitsune&include_icons=true&include_all_commits=true&hide_border=true&theme=dark" />
   </a>
   
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
@@ -48,20 +46,3 @@ TODO: I wonder if we can change the style depending on the GitHub theme (light/d
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 </p>
-
-<!--
-## Support me
-    Your support, if you have it 
-    I created these images, feel free to use them.
-<p align="center">
-  <a href="https://www.patreon.com/YuKitsune" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/YuKitsune/.github/master/.resources/support-patreon.png"/>
-  </a>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/YuKitsune/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/YuKitsune" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/YuKitsune/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
--->
