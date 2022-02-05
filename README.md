@@ -8,9 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eoinmoth/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&color=489fea&logo=Twitter&logoColor=white)](https://www.twitter.com/YuKitsune256/)
 
-&nbsp;
-
-**About me:**
+### About me
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/YuKitsune/YuKitsune/master/assets/Yuki.gif" />
@@ -22,7 +20,7 @@
 - Ask me about anything, I am happy to help where I can!
 - Fun-Fact: I'm completely self-taught!
 
-**Languages and Tools:** 
+### Languages and Tools
 
 <p>
 
