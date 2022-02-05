@@ -17,8 +17,8 @@
 
 - Software Engineer at [Octopus Deploy](https://octopus.com) 🐙
 - Currently working on [Chameleon](https://github.com/YuKitsune/Chameleon) 🦎 in my spare time
-- Self-proclaimed cypherpunk 🔐
-- Looking to collaborate on some open-source projects 🧑‍💻
+- Online privacy advocate 🔐
+- Keen to collaborate on some open-source projects 🧑‍💻
 - Ask me about anything, I am happy to help where I can!
 - Fun-Fact: I'm completely self-taught!
 
@@ -35,14 +35,14 @@
   </a>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 </p>
