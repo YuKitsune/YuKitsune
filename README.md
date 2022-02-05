@@ -11,7 +11,7 @@
 ### About me
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/YuKitsune/YuKitsune/master/assets/Yuki.gif" />
+<img width="55%" align="right" alt="GitHub" src="Yuki.gif" />
 
 - Software Engineer at [Octopus Deploy](https://octopus.com) 🐙
 - Currently working on [Chameleon](https://github.com/YuKitsune/Chameleon) 🦎 in my spare time
