@@ -14,8 +14,8 @@
 <img width="55%" align="right" alt="GitHub" src="Yuki.gif" />
 
 - Software Engineer at [Octopus Deploy](https://octopus.com) 🐙
-- Currently working on [Chameleon](https://github.com/YuKitsune/Chameleon) 🦎 in my spare time
-- Online privacy advocate 🔐
+- Currently working on [Maestro](https://github.com/YuKitsune/Maestro) 🎵 in my spare time
+- Privacy advocate 🔐
 - Keen to collaborate on some open-source projects 🧑‍💻
 - Ask me about anything, I am happy to help where I can!
 - Fun-Fact: I'm completely self-taught!
