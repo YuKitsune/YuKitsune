@@ -3,7 +3,7 @@
     Here it is: https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/onimur.md
 -->
 
-## Hi 👋, I'm YuKitsune 🦊, an Irish 🍺 Software Engineer based in Australia 🦘
+## Hi 👋, I'm Eoin, an Irish 🍺 Software Engineer based in Australia 🦘
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eoinmoth/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&color=489fea&logo=Twitter&logoColor=white)](https://www.twitter.com/YuKitsune256/)
