@@ -1,46 +1,48 @@
-<!-- 
-    You bet your ass i borrowed this off of some other repo!
-    Here it is: https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/onimur.md
--->
-
-## Hi 👋, I'm Eoin, an Irish 🍺 Software Engineer based in Australia 🦘
+## 👋 Hi there, I'm Eoin!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eoinmoth/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&color=489fea&logo=Twitter&logoColor=white)](https://www.twitter.com/YuKitsune256/)
 
-### About me
+I'm a Software Engineer at [Octopus Deploy 🐙](https://octopus.com), DevOps enjoyer 🛠, online privacy and security advocate 🔒
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="GitHub" src="Yuki.gif" />
+Outside of tech, I'm a student pilot and AvGeek ✈️, amateur photographer 📷, and music producer 🎹
 
-- Software Engineer at [Octopus Deploy](https://octopus.com) 🐙
-- Currently working on [Maestro](https://github.com/YuKitsune/Maestro) 🎵 in my spare time
-- Privacy advocate 🔐
-- Keen to collaborate on some open-source projects 🧑‍💻
-- Ask me about anything, I am happy to help where I can!
-- Fun-Fact: I'm completely self-taught!
+I occasionally blog [over here](https://yukitsune.dev), check it out!
 
-### Languages and Tools
+## 🛠 My tools
 
-<p>
+<div align="center">
 
-  <!-- Your github readme stats
-  You can use this api: https://github.com/anuraghazra/github-readme-stats
-  TODO: I wonder if we can change the style depending on the GitHub theme (light/dark)
-  -->
-  <a href="https://github.com/YuKitsune/">
-    <img width="55%" align="right" alt="YuKitsune's github stats" src="https://github-readme-stats.vercel.app/api?username=YuKitsune&include_icons=true&include_all_commits=true&hide_border=true&theme=dark" />
-  </a>
+  <!-- Images by https://www.vectorlogo.zone -->
   
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-</p>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" />
+
+</div>
+
+## 📊 Stats
+
+<div>
+
+  <!-- Stats by https://github.com/anuraghazra/github-readme-stats -->
+  <a href="https://github.com/YuKitsune/">
+    <img width="50%" align="left" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api?username=YuKitsune&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_background=true&hide_title=true&line_height=25&text_color=#777" />
+  </a>
+
+  <!-- PR open for excluding archived repos: https://github.com/anuraghazra/github-readme-stats/pull/1653 -->
+  <a href="https://github.com/YuKitsune/">
+    <img width="50%" align="left" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api/top-langs/?username=YuKitsune&layout=compact&exclude_archived=true&hide_border=true&hide_background=true&hide_title=true&text_color=#777" />
+  </a>
+
+</div>
