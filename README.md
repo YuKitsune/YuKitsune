@@ -32,15 +32,15 @@ I occasionally blog [over here](https://yukitsune.dev), check it out!
 </div>
 
 ## 📊 Stats
+<!-- Stats by https://github.com/anuraghazra/github-readme-stats -->
+<!-- Currently using my own fork while waiting for PRs to merge https://github.com/yukitsune/github-readme-stats -->
 
 <div align="center">
 
-  <!-- Stats by https://github.com/anuraghazra/github-readme-stats -->
-  <img width="49%" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api?username=YuKitsune&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_background=true&hide_title=true&line_height=25&text_color=#777" />
+  <img width="49%" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api?username=YuKitsune&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_background=true&hide_title=true&line_height=25&text_color=#808080" />
 
   <!-- PR open for excluding archived repos: https://github.com/anuraghazra/github-readme-stats/pull/1653 -->
   
-  <img width="49%" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api/top-langs/?username=YuKitsune&layout=compact&exclude_archived=true&hide_border=true&hide_background=true&hide_title=true&text_color=#777" />
+  <img width="49%" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api/top-langs/?username=YuKitsune&layout=compact&exclude_archived=true&hide_border=true&hide_background=true&hide_title=true&text_color=#808080" />
   
-
 </div>
