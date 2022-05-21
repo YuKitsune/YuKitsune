@@ -33,16 +33,14 @@ I occasionally blog [over here](https://yukitsune.dev), check it out!
 
 ## 📊 Stats
 
-<div>
+<div align="center">
 
   <!-- Stats by https://github.com/anuraghazra/github-readme-stats -->
-  <div width="50%" align="left">
-    <img alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api?username=YuKitsune&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_background=true&hide_title=true&line_height=25&text_color=#777" />
-  </div>
+  <img width="50%" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api?username=YuKitsune&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_background=true&hide_title=true&line_height=25&text_color=#777" />
 
   <!-- PR open for excluding archived repos: https://github.com/anuraghazra/github-readme-stats/pull/1653 -->
-  <div width="50%" align="right">
-    <img alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api/top-langs/?username=YuKitsune&layout=compact&exclude_archived=true&hide_border=true&hide_background=true&hide_title=true&text_color=#777" />
-  </div>
+  
+  <img width="50%" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api/top-langs/?username=YuKitsune&layout=compact&exclude_archived=true&hide_border=true&hide_background=true&hide_title=true&text_color=#777" />
+  
 
 </div>
