@@ -36,13 +36,13 @@ I occasionally blog [over here](https://yukitsune.dev), check it out!
 <div>
 
   <!-- Stats by https://github.com/anuraghazra/github-readme-stats -->
-  <a href="https://github.com/YuKitsune/">
-    <img width="50%" align="left" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api?username=YuKitsune&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_background=true&hide_title=true&line_height=25&text_color=#777" />
-  </a>
+  <div width="50%" align="left">
+    <img alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api?username=YuKitsune&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_background=true&hide_title=true&line_height=25&text_color=#777" />
+  </div>
 
   <!-- PR open for excluding archived repos: https://github.com/anuraghazra/github-readme-stats/pull/1653 -->
-  <a href="https://github.com/YuKitsune/">
-    <img width="50%" align="left" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api/top-langs/?username=YuKitsune&layout=compact&exclude_archived=true&hide_border=true&hide_background=true&hide_title=true&text_color=#777" />
-  </a>
+  <div width="50%" align="right">
+    <img alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api/top-langs/?username=YuKitsune&layout=compact&exclude_archived=true&hide_border=true&hide_background=true&hide_title=true&text_color=#777" />
+  </div>
 
 </div>
