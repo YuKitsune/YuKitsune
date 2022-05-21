@@ -37,10 +37,10 @@ I occasionally blog [over here](https://yukitsune.dev), check it out!
 
 <div align="center">
 
-  <img width="49%" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api?username=YuKitsune&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_background=true&hide_title=true&line_height=25&text_color=#768390" />
+  <img width="49%" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api?username=YuKitsune&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_background=true&hide_title=true&line_height=25&text_color=#adbac7" />
 
   <!-- PR open for excluding archived repos: https://github.com/anuraghazra/github-readme-stats/pull/1653 -->
   
-  <img width="49%" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api/top-langs/?username=YuKitsune&layout=compact&exclude_archived=true&hide_border=true&hide_background=true&hide_title=true&text_color=#768390" />
+  <img width="49%" alt="YuKitsune's GitHub stats" src="https://github-readme-stats-29369kqkm-yukitsune.vercel.app/api/top-langs/?username=YuKitsune&layout=compact&exclude_archived=true&hide_border=true&hide_background=true&hide_title=true&text_color=#adbac7" />
   
 </div>
