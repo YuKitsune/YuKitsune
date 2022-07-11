@@ -5,7 +5,7 @@
 
 I'm a Software Engineer at [Octopus Deploy 🐙](https://octopus.com), DevOps enjoyer 🛠, online privacy and security advocate 🔒
 
-Outside of tech, I'm a student pilot and aviation enthusiast ✈️, amateur photographer 📷, and music producer 🎹
+Outside of tech, I'm a student pilot and aviation enthusiast ✈️ soometimes an photographer 📷, and rarely a music producer 🎹
 
 I occasionally blog [over here](https://yukitsune.dev), check it out!
 
