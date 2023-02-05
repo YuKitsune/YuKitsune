@@ -22,10 +22,6 @@ I occasionally blog [over here](https://yukitsune.dev), check it out!
   <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
   <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
   <img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" />
 
 </div>
 
