@@ -1,11 +1,6 @@
 # 👋 Hi there, I'm Eoin!
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eoinmoth/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&color=489fea&logo=Twitter&logoColor=white)](https://www.twitter.com/YuKitsune256/)
-
 I'm a Software Engineer at [Octopus Deploy 🐙](https://octopus.com), DevOps enjoyer 🛠, online privacy and security advocate 🔒
-
-I occasionally blog [over here](https://yukitsune.dev), check it out!
 
 ## 🛠 My tools
 
